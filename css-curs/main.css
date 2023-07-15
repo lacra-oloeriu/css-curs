@@ -1,3 +1,7 @@
+* {
+    box-sizing: border-box;
+}
+
 body {
     font-family: 'Montserrat', sans-serif;
     margin:0;
@@ -10,8 +14,7 @@ body {
     padding: 10px;
     border: 5px solid black;
     margin: 10px;
-    box-sizing: border-box;
-}
+} 
 
 .section-title {
     color: #2ddf5c;
