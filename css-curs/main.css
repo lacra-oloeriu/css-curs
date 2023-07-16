@@ -72,11 +72,13 @@ body {
     text-decoration: none;
     color:#0e4f14
 }
- .main-nav__item a::after {
+
+.main-nav__item a::after {
     content:' (Link)';
     color: red;
  }
- 
+
+
 .main-nav__item a:hover {
     color: white;
 }
@@ -84,7 +86,7 @@ body {
     color: white;
 }
 
-p::first-letter {
+/*p::first-letter {
     color: red;
     font-size: 20px;
 }
