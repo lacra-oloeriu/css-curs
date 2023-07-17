@@ -26,4 +26,5 @@ a.active {
 
 .highlighted {
     border: 2px solid #fa923f;
+    height:200px;
 }
