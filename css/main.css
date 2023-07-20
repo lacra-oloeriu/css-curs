@@ -60,6 +60,10 @@ body {
     padding: 0;
 }
 
+.plan__feature {
+    margin : 8px 0;
+}
+
 .main-header {
     width: 100%;
     background: #2ddf5c;
