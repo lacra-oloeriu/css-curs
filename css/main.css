@@ -83,6 +83,7 @@ body {
 .button {
     background: #0e4f1f;
     color:white;
+    font:inherit;
 }
 
 .main-header {
