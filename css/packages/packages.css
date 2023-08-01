@@ -9,6 +9,12 @@ main {
     border-left: none;
 }
 
+.package:hover,
+.package:active {
+    box-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+    border-color: #ff5454;
+}
+
 .package a {
     text-decoration: none;
     color: inherit;
@@ -38,4 +44,12 @@ main {
 
 #premium {
     background: rgba(14, 79, 31, 0.95);
+}
+
+#premium .package__title {
+    color: white;
+}
+
+#premium .package__subtitle {
+    color: #bbb
 }
