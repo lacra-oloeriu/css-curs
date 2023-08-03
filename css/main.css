@@ -30,6 +30,12 @@ body {
     font-family: sans-serif;
 } */
 
+.plan__list {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+
 .plan {
     background: #d5ffd5;
     text-align: center;
