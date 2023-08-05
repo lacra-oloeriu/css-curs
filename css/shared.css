@@ -10,9 +10,13 @@ body {
 
 .main-header {
     width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
     background: #2ddf5c;
     display: inline-block;
     padding: 8px 16px;
+    z-index:0;
 }
 
 .main-header > div {
