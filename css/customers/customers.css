@@ -16,10 +16,14 @@
     width: 65%;
     display: inline-block;
     vertical-align: middle;
+    text-align: right;
+ 
   }
 
   .testimonial__image {
     width: 100%;
+    box-shadow: 3px 3px 3px 3px rgba(0,0,0,0.3);
+    vertical-align: top;
   }
   
   .testimonial__info {
@@ -28,6 +32,7 @@
     display: inline-block;
     vertical-align: middle;
     width: 40%;
+    
   }
   
   #customer-2.testimonial {
