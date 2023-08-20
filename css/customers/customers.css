@@ -11,12 +11,23 @@
   .testimonial:first-of-type {
     margin-top: 96px;
   }
+
+  .testimonial__image-container {
+    width: 65%;
+    display: inline-block;
+    vertical-align: middle;
+  }
+
+  .testimonial__image {
+    width: 100%;
+  }
   
   .testimonial__info {
     text-align: right;
     padding: 14px;
     display: inline-block;
     vertical-align: middle;
+    width: 40%;
   }
   
   #customer-2.testimonial {
