@@ -149,20 +149,6 @@ body {
     
 }
 
-
-
-
-
-
-/*p::first-letter {
-    color: red;
-    font-size: 20px;
-}
-.main-nav__item a::after {
-    content:' (Link)';
-    color: red;
- }*/
-
  .modal {
   position: fixed;
   /*display: none;*/
