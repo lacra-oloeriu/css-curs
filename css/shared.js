@@ -1,1 +1,3 @@
-alert('This works!');
+var backdrop = document.querySelector('.backdrop');
+
+backdrop.style.display='block'
