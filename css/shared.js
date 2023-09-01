@@ -24,6 +24,10 @@ modalNoButton.addEventListener('click', function() {
     modal.style.display = 'none';
 })
 
+
+// exemple to a sort code
+//backdrop.addEventListener('click', closeButton() )
+
 //function closeButton() {
   //  backdrop.style.display = 'none';
   //  modal.style.display = 'none';
