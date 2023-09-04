@@ -137,8 +137,8 @@ body {
 }
  
 .key-feature {
-    display: inline-block;
-    width: 30%;
+   /* display: inline-block;*/
+   /* width: 30%;*/
     vertical-align: top;
 }
 
