@@ -76,10 +76,15 @@ body {
 }
 
 .main-nav {
+<<<<<<< HEAD
     display: inline-block;
     text-align: right;
     width: calc(100% - 44px);
     vertical-align: middle;
+=======
+    display: none;
+    
+>>>>>>> 001-deeper-css
 }
 
 .main-nav__items {
