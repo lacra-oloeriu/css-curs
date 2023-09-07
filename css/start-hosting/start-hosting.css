@@ -22,3 +22,8 @@ main {
     width: auto;
 
  }
+
+ .signup-form button[type="submit"] {
+    display: block;
+    margin-top: 1rem;
+ }
