@@ -13,4 +13,12 @@ main {
  .signup-form select {
     display: block;
     margin-top: 1rem;
+    width: 100%;
+ }
+
+ .signup-form input[id*='terms'],
+ .signup-form input[id*="terms"] +label {
+    display: inline-block;
+    width: auto;
+
  }
