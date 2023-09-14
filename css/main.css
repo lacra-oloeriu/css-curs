@@ -105,18 +105,20 @@ body {
     }
 
     .plan {
-        display: inline-block;
         width: 30%;
-        vertical-align: middle;
         min-width: 13rem;
         max-width: 25rem;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        height: 28rem;
     }
-    .plan__highlighted {
+    .plan--highlighted {
         box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.5);
+        height: 30rem;
+        z-index: 50;
     }
 }
-
-
 
 #key-features {
     background: #ff1b68;
