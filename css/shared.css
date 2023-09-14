@@ -47,10 +47,10 @@ main {
     justify-content: space-between;
 }
 
-.main-header > div {
+/*.main-header > div {
     display: inline-block;
     vertical-align: middle;
-}
+}*/
 
 .toggle-button {
     width: 3rem;
