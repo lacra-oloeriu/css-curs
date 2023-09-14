@@ -99,7 +99,9 @@ body {
 @media (min-width: 40rem) {
     .plan__list {
         width: 100%;
-        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
     }
 
     .plan {
