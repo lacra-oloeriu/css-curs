@@ -19,9 +19,6 @@ body {
     /*background-image: linear-gradient(red,blue);*/
     width: 100vw;
     height:33vh;
-    /*padding: 10px;*/
-    /*margin-top: 3.5rem;*/
-    /*border : 5px dashed red;*/
     position: relative;
     
     
@@ -43,11 +40,6 @@ body {
     text-align: center;
 }
 
-/*.plan__list {
-    width: 100%;
-    text-align: center;
-}*/
-
 .plan {
     background: #d5ffd5;
     text-align: center;
@@ -59,7 +51,6 @@ body {
 .plan--highlighted {
     background: #19b84c;
     color: white;
-    /*box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.5);*/
 }
 
 .plan__annotation {
@@ -160,10 +151,13 @@ body {
 
 @media(min-width: 40rem) {
     .key-feature {
-         display: inline-block;
          width: 30%;
-         vertical-align: top;
          max-width: 25rem;
+     }
+
+     .key-feature__list {
+        display: flex;
+        justify-content: center;
      }
 }
 
