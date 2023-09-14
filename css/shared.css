@@ -39,9 +39,12 @@ main {
     top: 0;
     left: 0;
     background: #2ddf5c;
-    display: inline-block;
+    /*display: inline-block;*/
     padding: 0.5rem 1rem;
     z-index:1;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
 
 .main-header > div {
