@@ -158,7 +158,7 @@ main {
     margin-top: 3rem;
     /*grid-row: 3 / 4 ;*/
     grid-area: footer;
-
+}
 .main-footer__links {
     list-style: none;
     margin: 0;
