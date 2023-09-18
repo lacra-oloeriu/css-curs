@@ -166,7 +166,7 @@ body {
   position: fixed;
   opacity: 0;
   transform: translateY(-3rem) ;
-  transition: opacity 200ms ease-out 1s, transform 500ms ease-out 1s;
+  transition: opacity 200ms ease-out , transform 500ms ease-out ;
   z-index: 200;
   top: 20%;
   left: 30%;
