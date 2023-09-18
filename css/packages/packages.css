@@ -135,7 +135,7 @@ main {
 
 @keyframes push-up {
     0% {
-        transform: translate(0) /*skew(20deg)*/;
+        transform: translateY(0) /*skew(20deg)*/;
     }
     33% {
         transform: translateY(-1.5rem) /*skew(20deg)*/;
